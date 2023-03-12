@@ -1,1 +1,1 @@
-# VisualizationRubik-ube
+# VisualizationRubik-cube
